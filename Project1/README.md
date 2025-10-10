@@ -2,6 +2,9 @@ Hello There!
 
 This is the README for project 1, where I'll briefly explain all 4 of the phases. Since more detailed explanations will be in the LaTeX document, I'll use the README as a more informal description of the project.
 
+**Where to access**
+To access the Project files, please head to the "Project 1" branch in this repo.
+
 **Quick Overview**
 For this project, we ran 4 phases.
 - Phase 1 demonstrates the basics of parallel programming by implementing a basic bank system, where multiple threads attempt to deposit from different acconuts. This creates race conditions.
